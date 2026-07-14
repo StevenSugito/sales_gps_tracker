@@ -1,17 +1,35 @@
-# sales_gps_tracker
+# Aplikasi Sales Gps Tracker
 
-A new Flutter project.
+Aplikasi mobile berbasis Flutter yang digunakan untuk membantu owner dalam mengelola data kunjungan sales, pencatatan pekerjaan, serta dokumentasi hasil kunjungan secara digital.
 
-## Getting Started
+## Informasi Mahasiswa
 
-This project is a starting point for a Flutter application.
+- **Nama** : Steven Sugito
+- **NIM** : 24.01.53.3001
+- **Program Studi** : (DLC) S1 - Teknik Informatika
+- **Universitas** : Universitas Stikubank (UNISBANK) Semarang
+- **Mata Kuliah** : Pemrograman Aplikasi Mobile
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur Aplikasi
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Dashboard utama
+- Daftar kunjungan sales
+- Detail data pesanan
+- Input hasil kunjungan
+- Status penyelesaian 
+- Penyimpanan data lokal menggunakan SQLite
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Teknologi yang Digunakan
+
+- Flutter
+- Dart
+- SQLite
+- Material Design
+
+## Tujuan
+
+Project ini dikembangkan sebagai tugas mata kuliah **Pemrograman Mobile** pada Program Studi S1 Teknik Informatika Universitas Stikubank (UNISBANK) Semarang.
+
+## Lisensi
+
+Project ini dibuat untuk keperluan pembelajaran dan tugas akademik.
